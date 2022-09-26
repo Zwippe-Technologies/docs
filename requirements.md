@@ -40,6 +40,8 @@ accounts.
  
 <h1> 💳 Card management services </h1>
 
+> REST API or Web Service to generate a card.
+
 > REST API or Web Service to block a card.
 
 > REST API or Web Service to unlock a card.
